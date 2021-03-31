@@ -1,7 +1,7 @@
-//import math from 'mathjs'
+
 import Phaser from 'phaser'
-import WebFontFile from '~/files/font.ts'
-import { primaryButton } from '~/ui/button.jsx'
+import WebFontFile from '../files/font.ts'
+import { primaryButton } from '../ui/button.jsx'
 
 export default class Preloader extends Phaser.Scene
 {
