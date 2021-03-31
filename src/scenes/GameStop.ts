@@ -1,6 +1,6 @@
 
 import Phaser from 'phaser'
-import {primaryButton} from '../ui/button'
+import {primaryButton} from '../ui/button.jsx'
 
 export default class LevelFinishedScene extends Phaser.Scene 
 {
